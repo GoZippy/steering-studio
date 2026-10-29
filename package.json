@@ -16,9 +16,9 @@
     "@prisma/adapter-better-sqlite3": "^7.5.0",
     "@prisma/client": "^7.5.0",
     "@tailwindcss/typography": "^0.5.19",
-    "fflate": "^0.8.2",
-    "next": "^15.3.3",
-    "prisma": "^7.5.0",
+    "fflate": "^0.8.3",
+    "next": "^16.4.3",
+    "prisma": "^7.10.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hook-form": "^7.71.2",
@@ -43,6 +43,6 @@
     "jsdom": "^29.0.0",
     "tailwindcss": "^4.1.0",
     "typescript": "^5.8.0",
-    "vitest": "^4.1.0"
+    "vitest": "^5.0.5"
   }
 }
